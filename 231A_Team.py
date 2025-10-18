@@ -6,4 +6,4 @@ for _ in range(n):
         total_num_probs += 1
     else:
         continue
-    print(total_num_probs)
+print(total_num_probs)
